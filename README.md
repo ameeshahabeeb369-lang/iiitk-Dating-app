@@ -1,2 +1,2 @@
-# iiitk-Dating-app
-This is not a dating app
+# iiitk-app
+This is not a app
